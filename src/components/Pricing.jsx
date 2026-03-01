@@ -68,7 +68,7 @@ const Pricing = () => {
 							Pricing Plans
 						</span>
 					</h2>
-					<p className="text-gray-400 text-base texr-xl sm:text-lg max-w-2xl mx-auto">
+					<p className="text-gray-400 text-base sm:text-xl md:text-lg max-w-2xl mx-auto">
 						choose the perfect plan for your needs. All plans includea 14-day
 						free trial
 					</p>
